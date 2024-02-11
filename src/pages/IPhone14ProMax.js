@@ -46,7 +46,7 @@ const IPhone14ProMax = () => {
           <img className="ellipse-icon" alt="" src="/ellipse-11@2x.png" />
         </div>
         <div className="shop-now-group">
-          <b className="shop-now">Shop Now</b>
+          <b className="shop-now" style={{fontSize:"20px"}}>Shop Now</b>
           <img className="group-icon" alt="" src="/group-1000001720.svg" />
           <div className="frame-child4" />
         </div>

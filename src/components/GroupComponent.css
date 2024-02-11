@@ -2,6 +2,11 @@
   position: absolute;
   top: 0;
   left: 0;
+  font-family: 'cormorant garamond';
+  color: black;
+  margin: 20px;
+  font-size: 18px;
+  width: 100%;
   letter-spacing: -0.04em;
   line-height: 130%;
   text-transform: capitalize;
