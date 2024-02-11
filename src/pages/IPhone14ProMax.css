@@ -906,7 +906,7 @@
   }
 }
 .iphone-14-pro-max-3 {
-  width: 100%;
+  width: auto;
   position: relative;
   background-color: var(--color-white);
   height: 4757px;

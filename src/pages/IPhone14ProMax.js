@@ -38,8 +38,7 @@ const IPhone14ProMax = () => {
         <div className="since-fine-gems">
           Since fine gems is a declaration of self to really intend what you
           need, wear how you need, celebrate with when you need, and keep for
-          eternity. It's for great minutes, minor achievements, and in the
-          middle between.
+          eternity.
         </div>
         <div className="rectangle-parent">
           <div className="frame-child2" />
